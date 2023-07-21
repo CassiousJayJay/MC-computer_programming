@@ -29,3 +29,7 @@ html, body {
     cursor: pointer;
     font-size: 20px;
 } */
+.addButton {
+    display: flex;
+    flex-direction: row;
+}
